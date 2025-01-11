@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "15b8a7ae0c22a45c701d706d194edab7",
-"assets/AssetManifest.bin.json": "f0479628fe68bab9680271f74d360f27",
-"assets/AssetManifest.json": "24d5ca19f7088fb4d58199f678c0df8c",
+const RESOURCES = {"assets/AssetManifest.bin": "90195a3b701949195e9c5c027508d199",
+"assets/AssetManifest.bin.json": "fa3778ff5a2646ebd8ea093c36265365",
+"assets/AssetManifest.json": "2e21747b2e808198491acc815d426a55",
 "assets/assets/character.riv": "040c208491408946d61523c32da180c0",
 "assets/assets/phone_girl.riv": "480fa4809061a9584530a06058322875",
 "assets/assets/products/002.png": "760e039320ab29ca882551ab80bc1ebd",
@@ -24,6 +24,8 @@ const RESOURCES = {"assets/AssetManifest.bin": "15b8a7ae0c22a45c701d706d194edab7
 "assets/assets/products/67004002.png": "17d214e8c1ba78d89c9ee74ee7ba48c6",
 "assets/assets/products/67004005.png": "cc2f6c187c0d38e50f98b1c454e2a63b",
 "assets/assets/products/67022002.png": "55a96ce4290467ce5e651cceb2fc324b",
+"assets/assets/products/67022005.png": "9da2f629c10cc4e8567b5c90369dc267",
+"assets/assets/products/67022009.png": "d3505584fd4fafbd8b61a7a4030a9c21",
 "assets/assets/video/default.mp4": "9002be065b2afa16361e3ce9eecf7f94",
 "assets/assets/video/video1.mp4": "22e45cb84cb1725dd14d7f662332e31e",
 "assets/assets/video/video2.mp4": "1274c1ea2ea39908015e2789c66f4fad",
@@ -48,7 +50,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "15b8a7ae0c22a45c701d706d194edab7
 "canvaskit/skwasm.worker.js": "89990e8c92bcb123999aa81f7e203b1c",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "flutter.js": "4b2350e14c6650ba82871f60906437ea",
-"flutter_bootstrap.js": "23363897ea832a0de15d3d67e9094dad",
+"flutter_bootstrap.js": "fd9a25f9f1464e5bb99b9438aa3299f1",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
